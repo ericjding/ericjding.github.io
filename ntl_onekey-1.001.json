@@ -1,0 +1,20 @@
+﻿{
+  "options" : {
+    "device" : "any",
+    "keyboardBaseUri" : "http://your-host-here/keyboard-path/",
+    "fontBaseUri" : "http://your-host-here/font-path/"
+  },
+  "keyboard" : {
+    "id" : "ntl_onekey",
+    "name" : "\u65B0\u50A3\u6587\u4E00\u952E",
+    "filename" : "ntl_onekey-1.001.js",
+    "version" : "1.001",
+    "lastModified" : "2017-12-18T16:28:56.386+08:00",
+    "languages" : [
+      {
+        "id" : "khb",
+        "name" : "L\u00FC"
+      }
+      ]
+  }
+}
