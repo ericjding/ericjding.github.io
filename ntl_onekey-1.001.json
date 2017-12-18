@@ -1,8 +1,8 @@
 ﻿{
   "options" : {
     "device" : "any",
-    "keyboardBaseUri" : "http://your-host-here/keyboard-path/",
-    "fontBaseUri" : "http://your-host-here/font-path/"
+    "keyboardBaseUri" : "http://ericjding.github.io/",
+    "fontBaseUri" : "http://ericjding.github.io/"
   },
   "keyboard" : {
     "id" : "ntl_onekey",
