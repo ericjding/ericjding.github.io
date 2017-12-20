@@ -1,16 +1,20 @@
 ﻿{
   "options" : {
     "device" : "any",
-    "keyboardBaseUri" : "https://ericjding.github.io/ntl_onekey/",
-    "fontBaseUri" : "https://ericjding.github.io/ntl_onekey/"
+    "keyboardBaseUri" : "https://ericjding.github.io/",
+    "fontBaseUri" : "https://ericjding.github.io/"
   },
   "keyboard" : {
     "id" : "ntl_onekey",
     "name" : "\u65B0\u50A3\u6587\u4E00\u952E",
     "filename" : "ntl_onekey-1.001.js",
     "version" : "1.001",
-    "lastModified" : "2017-12-20T10:41:17.116+08:00",
+    "lastModified" : "2017-12-20T10:25:40.354+08:00",
     "font" : {
+      "family" : "Nokyung",
+      "source" : "Nokyung-R.ttf"
+    },
+    "oskFont" : {
       "family" : "Nokyung",
       "source" : "Nokyung-R.ttf"
     },
